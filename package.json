@@ -7,13 +7,16 @@
     "test": "test"
   },
   "dependencies": {
-    "truffle": "^5.0.13"
+    "truffle": "5.0.13"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["ethereum", "gas exactimation"],
+  "keywords": [
+    "ethereum",
+    "gas exactimation"
+  ],
   "author": "Cruz Molina",
   "license": "MIT"
 }
