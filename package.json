@@ -1,0 +1,19 @@
+{
+  "name": "gas-exactimation-tutorial",
+  "version": "0.1.0",
+  "description": "Solution for gas exactimation tutorial",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "truffle": "^5.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ethereum", "gas exactimation"],
+  "author": "Cruz Molina",
+  "license": "MIT"
+}
